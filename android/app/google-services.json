@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29017078528",
+    "firebase_url": "https://findofficer.firebaseio.com",
+    "project_id": "findofficer",
+    "storage_bucket": "findofficer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29017078528:android:66294731b2b37b834c51e5",
+        "android_client_info": {
+          "package_name": "com.roviagatetechnology.find_officer_lra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29017078528-jatno0uuipf2308na4nisb1fmraq4tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZCm1nxyCwaT1_Tu5PsUkdMkgbrD2CBYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29017078528-jatno0uuipf2308na4nisb1fmraq4tpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
